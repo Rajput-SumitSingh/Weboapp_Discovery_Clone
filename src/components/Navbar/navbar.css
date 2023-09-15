@@ -1,0 +1,9 @@
+button {
+  border-radius: 2rem;
+}
+.navbar {
+  background-color: rgb(143, 150, 163) !important;
+}
+.navbar-nav .nav-link {
+  color: rgb(0, 4, 10) !important; /* Set the color to your preference */
+}

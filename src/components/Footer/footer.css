@@ -1,0 +1,8 @@
+.social_icons {
+  gap: 1rem;
+  font-size: 1.7rem;
+  display: flex;
+}
+.linked {
+  padding: 1rem;
+}
